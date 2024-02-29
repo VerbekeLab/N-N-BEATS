@@ -7,7 +7,10 @@ All code was written for ```python 3.10```.
 Weights and Biases ([W&B](https://wandb.com)) is required to log the experiments. 
 
 ## Usage
-To get the results for DeepAR, run the ```DeepAR.ipynb``` for the different seeds as indicated in the notebooks. 
+To get the results for DeepAR, run ```DeepAR.ipynb``` for the different seeds as indicated in the notebooks. 
+
+To get the results for ETS, ETS-C1, and ETS-C2, run ``ETS_probabilistic.ipynb```.
+To get the results for ETS-C3, run ``ETS_C3.ipynb```.
 
 To get the results for N-N-BEATS-C run the ```N-N-BEATS-C.ipynb``` notebook for the different seeds as indicated in the notebook. 
 
